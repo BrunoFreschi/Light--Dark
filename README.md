@@ -1,4 +1,4 @@
 # Light--Dark
 Hi!
 
-Guia de como desenvolver um modo escuro para paginas web, controlado por JS. 
+Controlando modo escuro de pagina Web com JS.
